@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid_19_Uum</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deaths">Meninggal</string>
+    <string name="recovered">Sembuh</string>
+    <string name="confirmed">Positif</string>
+    <string name="last_update">Update Terakhir</string>
+    <string name="from_corona">CORONA</string>
+</resources>
